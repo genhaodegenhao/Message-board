@@ -1,0 +1,92 @@
+	* { 
+		padding: 0; 
+		margin: 0; 
+	}
+	li { 
+		list-style: none; 
+	}
+	body { 
+		background: #f9f9f9; 
+		font-size: 14px; 
+	}
+	h2{
+		margin: 15px 10px;
+	}
+	#box { 
+		width: 450px; 
+		padding: 10px; 
+		border: 1px solid #ccc; 
+		background: #f4f4f4; 
+		margin: 0 auto; 
+	}
+	#fill_in li,#p1{ 
+		padding: 10px 0; 
+		text-align: right;
+	}
+	#fill_in textarea { 
+		width: 380px; 
+		height: 100px; 
+		line-height: 20px; 
+		padding: 5px 10px; 
+		border: 1px solid #ccc; 
+		font-size: 14px; 
+		font-family: arial; 
+		overflow: auto; 
+		vertical-align: top; 
+	}
+	#btn {
+		width: 100px; 
+		height: 30px; 
+		border: 1px solid #ccc; 
+		background: #fff; 
+		color: #666; 
+		font-size: 14px; 
+		cursor: pointer;
+	}
+	#message_text li { 
+		background: #f9f9f9; 
+		border-bottom: 1px solid #ccc; 
+		color: #666; 
+		overflow: hidden; 
+		height: 70px;
+	}
+	#message_text .textp1{ 
+		padding: 0 10px 20px; 
+		text-indent: 28px; 
+		line-height: 20px; 
+	}
+	#message_text .textp2{ 
+		padding: 0 10px 5px; 
+		text-indent: 28px; 
+	}
+	#del{
+		float: right;
+	}
+	#del:hover{
+		color: red;
+	}
+	.active{
+		color: red;
+	}
+	#page{
+		margin: 10px 0;
+		text-align: center;
+	}
+	#page a{
+		margin: 0 20px;
+	}
+	#list a{
+		text-decoration: none;
+	}
+	#list li{
+		padding: 10px 0;
+	}
+	#list li:hover{
+		background: gainsboro;
+	}
+	.a33{
+		float: right;
+	}
+	.content{
+		margin: 10px 0;
+	}
